@@ -39,8 +39,5 @@ $ make run-dev
 
 The Jupyter notebook will automatically be opened in your browser.
 
-## Author
-Matheus Freire Rabelo
-
 ## License
 MIT
